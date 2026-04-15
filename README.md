@@ -1,6 +1,6 @@
 # Learning-Log
 
-Tracking what I **learn** because my brain be doing laps. 
+Tracking what I **learn**, *love*, and experience because my brain be doing laps. 
 
 ## 4/15/26 - Day 1
 1. Created a repo using education Git ( still learning)
@@ -9,11 +9,9 @@ Tracking what I **learn** because my brain be doing laps.
 4. Discovered I love writing READMEs
 5. 'Learned' what bitwise is (cried but you have no proof)
 6. Attempted to rescue spider
-7. Accidentally deleted one of its legs
-- Outcome: unclear
-- Emotional state: mixed
+7. Accidentally deleted one of its legs. Outcome: unclear, Emotional state: mixed
 
-### Questions/Confusions (yes 'confusions' wanna argue over this?... now?
+### Questions/Confusions (yes, 'confusions' wanna argue over this?... now?)
 - [ ] Bitwise... still suspicious
 - [ ] Why would spider legs be so fragile?
 
@@ -22,4 +20,5 @@ Tracking what I **learn** because my brain be doing laps.
 - Does anyone read these?
 - I think are going to be a lot of buttons
 - I'm not usually spider person 
-- I think I'm going to write everything down and then have a time each day where I then post my entire day That way I'm not making commits every 10 minutes. (Queen of AI software engineering level up thought)
+- I think I'm going to write everything down and then have a time each day where I then post my entire day.... That way I'm not making commits every 10 minutes. (Queen of AI software engineering level up thought)
+- I wonder what else I learn. 
