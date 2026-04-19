@@ -44,4 +44,43 @@ Tracking what I **learn**, *love*, and experience because my brain be doing laps
 - I am starting OOP in my school in a week or so. ( Nervous )
 - I am excited to build things
 - Existential Physics Intrusions
+
+## 4/18/26 - Day 3
+1. Don't think I understand lambda ( like i get it but its weird because why?)
+2. learned lambda... (specifically with sorted(), min(), max())
+3. Just fought a war with sets vs dicts and lambda and then ...and THEN found out about itemgetter( slightly angry)
+4. I think im going on strike
+5. thankful for the hard then the shortcut but still angry
+
+### Questions/ Confusions
+- [ ] This is what I was going though ( yeah I get that it makes sense to you but I am learning!):
+ ``` python
+ products = [
+{'name': 'pizza', 'price': 14.99, 'rating': 4.5},
+{'name': 'shoebill', 'price': 149.99, 'rating': 5.0},
+{'name': 'grocery', 'price': 249.99, 'rating': 4.9},
+{'name': 'house', 'price': 349.99, 'rating': 4.6},
+{'name': 'frog', 'price': 249.99, 'rating': 4.6}
+]
+
+for p in products:
+    print(type(p), p) # debuggin cause Python hates me lol
+
+print('--------') #sep
+
+by_price = sorted(products, key = lambda p: p['price'])
+by_rating_then_price = sorted(products, key = lambda p: (-p['rating'], p['price']))
+print(by_price)
+print('--------') #sep
+print(by_rating_then_price)
+```
+yeah it looks mostly fine now but ... but it took some shouts from me!
+
+
+#### Thoughts
+- I think that i am going to be great because my wars are sad.
+- You would think that I would've quit by now but nope sorry next
+- I am having the most fun. Is this Nirvana?
+- i'm still angry about the itemgetter
+- i learned box breathing (lmao)
   
